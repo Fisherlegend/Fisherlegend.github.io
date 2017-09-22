@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "finaljacque.data.unityweb",
+"asmCodeUrl": "finaljacque.asm.code.unityweb",
+"asmMemoryUrl": "finaljacque.asm.memory.unityweb",
+"asmFrameworkUrl": "finaljacque.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
